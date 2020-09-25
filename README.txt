@@ -4,3 +4,4 @@ Update README.txt with new code
 Add README.txt file
 Sharing remotely
 Feature1
+Feature2
