@@ -9,3 +9,4 @@ Feature2 changes
 Update REAME with new code
 Fix bug1234
 Fix another bug1234
+Fix 1
