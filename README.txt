@@ -1,3 +1,3 @@
 Hello,Git
 Hello, Again
-Update REAME with new code
+Update README.txt with new code
