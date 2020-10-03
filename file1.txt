@@ -1,6 +1,3 @@
 Add some here
-<<<<<<< HEAD
 Add more code
-=======
 Fix1
->>>>>>> 4954753... Add fix1
