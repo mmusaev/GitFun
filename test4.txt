@@ -2,3 +2,4 @@ Update test4.txt
 One line
 Second line
 One more line added
+Add feature 2
