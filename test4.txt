@@ -1,1 +1,4 @@
 Update test4.txt
+One line
+Second line
+One more line added
