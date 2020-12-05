@@ -8,3 +8,4 @@ Feature2 changes
 feature2_addiontal
 Try to add to readme.txt
 More content
+In dev add this to README
