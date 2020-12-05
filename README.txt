@@ -6,3 +6,5 @@ Feature
 Add Feature2
 Feature2 changes
 feature2_addiontal
+Try to add to readme.txt
+More content
