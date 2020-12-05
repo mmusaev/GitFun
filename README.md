@@ -1,1 +1,1 @@
-# GitFun
+# GitFunTesting diff tool config
